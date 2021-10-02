@@ -1,6 +1,6 @@
 # Installation-Instructions
 
-- [For Browser extension](#browser-extensions)
+- [For Browser extension](#for-browser-extension)
     - [Google Chrome / Microsoft Edge in desktop](#google-chrome--microsoft-edge-in-desktop)
     - [Install extension in the Mobile](#install-extension-in-the-mobile)
     - [Use as a website](#use-as-a-website)
