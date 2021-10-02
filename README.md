@@ -1,11 +1,11 @@
 # Installation-Instructions
 
 - [For Browser extension](#for-browser-extension)
-    - [Google Chrome / Microsoft Edge in desktop](#google-chrome--microsoft-edge-in-desktop)
-    - [Install extension in the Mobile](#install-extension-in-the-mobile)
-    - [Use as a website](#use-as-a-website)
 
 ## For Browser extension
+- [Google Chrome / Microsoft Edge in desktop](#google-chrome--microsoft-edge-in-desktop)
+- [Install extension in the Mobile](#install-extension-in-the-mobile)
+- [Use as a website](#use-as-a-website)
 
 ### **Google Chrome / Microsoft Edge in desktop** 
 1. Unzip the zipped file you just installed and you should have a folder.
