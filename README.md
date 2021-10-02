@@ -1,9 +1,9 @@
 # Installation-Instructions
 
 - [For Browser extension](#browser-extensions)
-    - [VPN Guides and Tutorials](#vpn-guides-and-tutorials)
-    - [VPN Subscription Services](#vpn-subscription-services)
-    - [Self-hosted VPNs](#self-hosted-vpns)
+    - [Google Chrome / Microsoft Edge in desktop](#google-chrome--microsoft-edge-in-desktop)
+    - [Install extension in the Mobile](#install-extension-in-the-mobile)
+    - [Use as a website](#use-as-a-website)
 
 ## For Browser extension
 
