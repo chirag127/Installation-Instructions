@@ -1,6 +1,10 @@
 # Installation-Instructions
 
-## For Browser extension
+- [For Browser extension](#browser-extensions)
+    - [VPN Guides and Tutorials](#vpn-guides-and-tutorials)
+    - [VPN Subscription Services](#vpn-subscription-services)
+    - [Self-hosted VPNs](#self-hosted-vpns)
+
 
 #### **Google Chrome / Microsoft Edge in desktop** 
 1. Unzip the zipped file you just installed and you should have a folder.
