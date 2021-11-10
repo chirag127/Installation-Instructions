@@ -20,10 +20,9 @@
 1. Install from zip.
 
 ### Use as a website
-1. It will give random word, it's meaning and pronunciation on reload.
 1. Unzip the file and you should have a folder.
 1. Open the folder.
 1. Click on popup.html , this web page will open in the browser.
-1. Reload to see new word. ( Refer https://www.wikihow.com/Refresh-a-Page for on how to reload the page)
+1. Reload if you want. ( Refer https://www.wikihow.com/Refresh-a-Page for on how to reload the page)
 
 
